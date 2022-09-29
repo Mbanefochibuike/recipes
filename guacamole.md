@@ -1,7 +1,7 @@
 # Ingredients
-- avacado
-- lime
-- pepper
-- salt
+- avacad R35
+- lime R45
+- pepper R75
+- salt R50
 # Instructions
 
